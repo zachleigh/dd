@@ -24,8 +24,7 @@
         }
     ],
     "require": {
-        "php": ">= 5.4  <8.0",
-        "ext-phalcon": ">=3.0"
+        "php": ">= 5.4  <8.0"
     },
     "support": {
         "issues": "https://github.com/phalcon/dd/issues",
